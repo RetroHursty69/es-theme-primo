@@ -5,6 +5,7 @@ Special thanks to the creator of the Chicuelo Theme that this theme is based on.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 FOR A BETTER USER EXPERIENCE SET THE UI TRANSITION STYLE TO INSTANT
+SET ON-SCREEN HELP TO OFF
 ------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------
 Some of these systems are for PC not Pi. Some are for Team ZT and Game Wizard. Some are for Recalbox.
