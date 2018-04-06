@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2001  ·  DVD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Xbox is a video gaming brand created and owned by Microsoft. It represents a series of video game consoles developed by Microsoft, with three consoles released in the sixth, seventh and eighth generations respectively</text>
+  </text>
+ </view>
+</theme>

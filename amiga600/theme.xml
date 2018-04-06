@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1993  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Amiga 600, also known as the A600 (codenamed "June Bug" after a B-52s song), is a home computer that was introduced at the CeBIT show in March 1992</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1987  ·  CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Tectoy is a Brazilian video game and electronics company. They are best known for producing, publishing and distributing Sega's consoles and video games in Brazil. The company stock is also traded at Bovespa</text>
+  </text>
+ </view>
+</theme>

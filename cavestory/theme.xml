@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2004  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Cave Story is a metroidvania platform-adventure video game released in 2004 for the Windows PC</text>
+  </text>
+ </view>
+</theme>

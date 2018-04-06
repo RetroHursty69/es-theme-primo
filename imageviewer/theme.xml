@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UTILITY  ·  IMAGE VIEWER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>An image viewer is a computer program that can display stored graphical images; it can often handle various graphics file formats</text>
+  </text>
+ </view>
+</theme>

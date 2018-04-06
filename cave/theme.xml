@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>ARCADE  ·  CAVE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>CAVE Interactive CO. or CAVE for short, is a Japanese video game company founded in 1994 by former employees of Toaplan following its bankruptcy</text>
+  </text>
+ </view>
+</theme>

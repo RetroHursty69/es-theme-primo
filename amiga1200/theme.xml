@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1992  ·  COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Amiga 1200, or A1200 (code-named "Channel Z"), is Commodore International's third-generation Amiga computer, aimed at the home computer market</text>
+  </text>
+ </view>
+</theme>

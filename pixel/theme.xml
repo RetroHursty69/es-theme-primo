@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UTILITY  ·  PIXEL DESKTOP</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Raspbian uses PIXEL which is composed of a modified LXDE desktop environment and the Openbox stacking window manager with a new theme and few other changes</text>
+  </text>
+ </view>
+</theme>

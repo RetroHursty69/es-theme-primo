@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UTILITY  ·  TEAM ZT</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Team ZT, a great utility covering roms and kodi</text>
+  </text>
+ </view>
+</theme>

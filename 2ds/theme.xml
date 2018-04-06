@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2013  ·  HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Nintendo 2DS is an entry-level version of the Nintendo 3DS which maintains otherwise identical hardware</text>
+  </text>
+ </view>
+</theme>

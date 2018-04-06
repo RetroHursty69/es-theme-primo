@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>TBA  ·  '128-BIT' CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Nintendo GameCube Classic is the miniture version of the Nintendo Game Cube released in 2001. One quarter of the size and comes with built in games</text>
+  </text>
+ </view>
+</theme>

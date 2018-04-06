@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UTILITY</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>PrBoom is the culmination of years of work by various people and projects on the Doom source code</text>
+  </text>
+ </view>
+</theme>

@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>UTILITY  ·  NETFLIX</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Netflix is an American entertainment company founded by Reed Hastings and Marc Randolph on August 29, 1997, in Scotts Valley, California</text>
+  </text>
+ </view>
+</theme>

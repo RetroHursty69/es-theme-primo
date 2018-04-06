@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2012  ·  CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Wii U is a home video game console developed by Nintendo, and the successor to the Wii. The console was released in November 2012 and was the first eighth-generation video game console</text>
+  </text>
+ </view>
+</theme>

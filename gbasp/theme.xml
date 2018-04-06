@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2003  ·  32-BIT HANDHELD CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Game Boy Advance SP, released in February 2003, is an upgraded version of Nintendo's Game Boy Advance. The "SP" in the name stands for "Special"</text>
+  </text>
+ </view>
+</theme>

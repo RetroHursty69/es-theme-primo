@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2018  ·  64-BIT CONSOLE</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The N64-Classic is a miniture version of the N64 Console from Nintendo</text>
+  </text>
+ </view>
+</theme>
